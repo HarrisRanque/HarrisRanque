@@ -7,7 +7,7 @@ I have hands-on experience designing and developing modern web applications, API
 My focus is on building reliable, maintainable, and scalable systems with strong operational visibility and automation. I enjoy solving complex engineering problems, optimizing performance, improving developer workflows, and stabilizing production environments.
 
 Core areas:
-• Full Stack Web Development
+• Full Stack Web Development \n
 • DevOps & Cloud Engineering
 • CI/CD Automation
 • Docker & Kubernetes
